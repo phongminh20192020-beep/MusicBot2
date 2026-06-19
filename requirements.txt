@@ -1,6 +1,6 @@
 discord.py==2.3.2
 python-dotenv==1.0.0
-wavelink≥3.3.1
+wavelink==3.3.1
 lavalink==4.0.1
 spotipy==2.22.1
 youtube-search-python==1.10.5
